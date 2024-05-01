@@ -33,3 +33,9 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+Answer:
+
+In the worst case scenario, the algorithm would visit all of the nodes and edges in the graph.
+
+If this is the case, the worst case runtime would be $\Theta (N + E)$ where $N$ is the number of nodes and $E$ is the number of edges.
